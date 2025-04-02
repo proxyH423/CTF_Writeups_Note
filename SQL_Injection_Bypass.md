@@ -1,6 +1,3 @@
-### Challenge: **"SQL Injection Bypass" - Web Exploitation | PicoCTF**
-
----
 
 # 🚀 **"SQL Injection Bypass" - Web Exploitation | PicoCTF**
 
